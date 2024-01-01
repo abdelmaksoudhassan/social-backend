@@ -5,8 +5,7 @@ db:
   url: 'mongodb+srv://abdelmaksoud:mongodb@cluster0.3zu58.mongodb.net/social'
 
 cors:
-  # origin: https://adorable-kheer-de9249.netlify.app
-  origin: http://localhost:3001
+  origin: https://resilient-boba-57a7de.netlify.app
 
 jwt:
   expiresIn: 3600
